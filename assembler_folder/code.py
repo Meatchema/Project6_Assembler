@@ -1,6 +1,6 @@
 """
 Code Module for Hack Assembler
-Translates Hack assembly language mnemonics into binary codes.
+Translates Hack assembly language symbols into binary codes.
 """
 
 # Destination codes
